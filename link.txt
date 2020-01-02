@@ -1,0 +1,1 @@
+http://gitlab.bitwiseglobal.net/ashwins/mobile-releases.git
